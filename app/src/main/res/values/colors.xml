@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="loading_progress_color1">#EF5381</color>
+    <color name="loading_progress_color2">#FFD109</color>
+    <color name="loading_progress_color3">#39C6D7</color>
+
+</resources>
